@@ -42,7 +42,7 @@ export type ENV =
 export const ENDPOINTS = [
   {
     name: 'mainnet-beta (custom)' as ENV,
-    endpoint: 'https://gate2.main.genesysgo.net:8899/',
+    endpoint: 'https://lokidfxnwlabdq.main.genesysgo.net:8899',
     ChainId: ChainId.MainnetBeta,
   },
   {
